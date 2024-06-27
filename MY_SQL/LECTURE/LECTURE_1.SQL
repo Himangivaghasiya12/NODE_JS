@@ -1,14 +1,17 @@
--- 1.  \sql
+-- CREATE TABLE & DATABASE & insert DATA & SHOW TABLE
 
--- 2.  \connect root@localhost:3306
 
--- 3. show databases;
+1.  \sql
 
--- 4.  create database node5to7;
+2.  \connect root@localhost:3306
 
--- 5. use node5to7;
+3. show databases;
 
--- 6. show Tables;
+4.  create database node5to7;
+
+5. use node5to7;
+
+6. show Tables;
 
 -- 7.  create new table
 
