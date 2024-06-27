@@ -37,6 +37,6 @@ insert into PRODUCT_MASTER values
 
 select * from PRODUCT_MASTER(table_name);
 
-select particular 1 column
+-- select particular 1 column
 
 select costprice from PRODUCT_MASTER;
