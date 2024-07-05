@@ -44,3 +44,17 @@ select * from user;
 
 select firstname from user;
 
+
+
+
+
+
+
+
+
+
+insert into user values
+("019001"),
+
+
+
